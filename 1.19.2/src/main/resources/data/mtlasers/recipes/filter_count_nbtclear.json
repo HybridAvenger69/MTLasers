@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mtlasers",
+  "ingredients": [
+    {
+      "item": "mtlasers:filter_count"
+    }
+  ],
+  "result": {
+    "item": "mtlasers:filter_count"
+  }
+}

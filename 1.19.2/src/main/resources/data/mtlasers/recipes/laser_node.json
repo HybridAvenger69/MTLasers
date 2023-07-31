@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mtlasers",
+  "key": {
+    "b": {
+      "item": "mtlasers:laser_connector"
+    },
+    "g": {
+      "tag": "forge:glass_panes"
+    },
+    "i": {
+      "item": "hybridlib:tech_ingot"
+    }
+  },
+  "pattern": [
+    "igi",
+    "gbg",
+    "igi"
+  ],
+  "result": {
+    "item": "mtlasers:laser_node"
+  }
+}

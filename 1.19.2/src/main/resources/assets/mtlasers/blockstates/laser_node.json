@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mtlasers:block/laser_node"
+    }
+  }
+}

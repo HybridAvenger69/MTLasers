@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mtlasers",
+  "key": {
+    "g": {
+      "tag": "forge:glass_panes"
+    },
+    "i": {
+      "item": "minecraft:iron_bars"
+    },
+    "q": {
+      "item": "mtlasers:logic_chip"
+    }
+  },
+  "pattern": [
+    "igi",
+    "gqg",
+    "igi"
+  ],
+  "result": {
+    "count": 4,
+    "item": "mtlasers:filter_basic"
+  }
+}

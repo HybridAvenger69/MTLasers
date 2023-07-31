@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mtlasers:item/card_redstone",
+    "layer1": "mtlasers:item/cardlayers/insert",
+    "layer2": "mtlasers:item/cardlayers/channel"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "mtlasers:mode": 1
+      },
+      "model": "mtlasers:item/card_redstone_extract"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mtlasers:item/card_fluid",
+    "layer1": "mtlasers:item/cardlayers/insert",
+    "layer2": "mtlasers:item/cardlayers/channel"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "mtlasers:mode": 1
+      },
+      "model": "mtlasers:item/card_fluid_extract"
+    },
+    {
+      "predicate": {
+        "mtlasers:mode": 2
+      },
+      "model": "mtlasers:item/card_fluid_stock"
+    },
+    {
+      "predicate": {
+        "mtlasers:mode": 3
+      },
+      "model": "mtlasers:item/card_fluid_sensor"
+    }
+  ]
+}

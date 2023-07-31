@@ -1,0 +1,47 @@
+{
+  "name": "Basics",
+  "sortnum": 0,
+  "category": "mtlasers:mechanics",
+  "icon": "mtlasters:logic_chip",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Right clicking a Card in your hand will open up it's UI. You can also right click a card inside a $(l:mtlasers:laser_node)Node$(/l) UI.$(br2)Insert Mode:$(br)1. $(l:mtlasers:modes)Mode$(/l)$(br)2. $(l:mtlasers:sneaky)Sneaky$(/l)$(br)3. Filter$(br)4. $(l:mtlasers:overclocker_card)Card Overclocker$(/l)$(br)5. $(l:mtlasers:priority)Priority$(/l)$(br)6. $(l:mtlasers:channel)Channel$(/l)$(br)7. $(l:mtlasers:redstonemode)Redstone Mode$(/l)$(br)8. $(l:mtlasers:redstonechannel)Redstone Channel$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Insert UI",
+      "images": [
+        "mtlasers:textures/book/entries/basics1.png"
+      ],
+      "border": true,
+      "text": "An item card set to Insert Mode"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Extract Mode:$(br2)1. $(l:mtlasers:modes)Mode$(/l)$(br)2. $(l:mtlasers:sneaky)Sneaky$(/l)$(br)3. $(l:mtlasers:roundrobin)Round Robin$(/l)$(br)4. $(l:mtlasers:exact)Exact$(/l)$(br)5. Filter$(br)6. $(l:mtlasers:overclocker_card)Card Overclocker$(/l)$(br)7. $(l:mtlasers:extractamount)Extract Amount$(/l)$(br)8. $(l:mtlasers:tickspeed)Tick Speed$(/l)$(br)9. $(l:mtlasers:channel)Channel$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Extract UI",
+      "images": [
+        "mtlasers:textures/book/entries/basics-extract.png"
+      ],
+      "border": true,
+      "text": "An item card set to Extract Mode."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Stock Mode:$(br2)1. $(l:mtlasers:modes)Mode$(/l)$(br)2. $(l:mtlasers:sneaky)Sneaky$(/l)$(br)3. $(l:mtlasers:regulate)Regulate$(/l)$(br)4. $(l:mtlasers:exact)Exact$(/l)$(br)5. Filter$(br)6. $(l:mtlasers:overclocker_card)Card Overclocker$(/l)$(br)7. $(l:mtlasers:extractamount)Extract Amount$(/l)$(br)8. $(l:mtlasers:tickspeed)Tick Speed$(/l)$(br)9. $(l:mtlasers:channel)Channel$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Stock UI",
+      "images": [
+        "mtlasers:textures/book/entries/basics-stock.png"
+      ],
+      "border": true,
+      "text": "An item card set to Stock Mode."
+    }
+  ]
+}

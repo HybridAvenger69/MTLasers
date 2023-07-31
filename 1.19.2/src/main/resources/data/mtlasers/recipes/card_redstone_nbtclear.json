@@ -1,0 +1,12 @@
+{
+  "type": "mtlasers:cardclear",
+  "group": "mtlasers",
+  "ingredients": [
+    {
+      "item": "mtlasers:card_redstone"
+    }
+  ],
+  "result": {
+    "item": "mtlasers:card_redstone"
+  }
+}

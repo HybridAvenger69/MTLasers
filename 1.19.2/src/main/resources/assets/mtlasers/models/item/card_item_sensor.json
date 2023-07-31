@@ -1,0 +1,6 @@
+{
+  "parent": "mtlasers:item/card_item",
+  "textures": {
+    "layer1": "mtlasers:item/cardlayers/sensor"
+  }
+}

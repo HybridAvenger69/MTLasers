@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mtlasers",
+  "ingredients": [
+    {
+      "item": "mtlasers:filter_basic"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "result": {
+    "item": "mtlasers:filter_mod"
+  }
+}

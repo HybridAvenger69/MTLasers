@@ -1,0 +1,6 @@
+{
+  "parent": "mtlasers:item/card_redstone",
+  "textures": {
+    "layer1": "mtlasers:item/cardlayers/extract"
+  }
+}

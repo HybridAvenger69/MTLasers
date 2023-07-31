@@ -1,0 +1,12 @@
+{
+  "name": "Redstone Channel",
+  "sortnum": 11,
+  "category": "mtlasers:mechanics",
+  "icon": "mtlasers:textures/gui/buttons/redstoneignore.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Cards have a 'redstone channel' separate from the main channel.$(br2)This is the channel of Redstone Signal that will affect the card. See more details in the $(l:mtlasers:redstonemode)Redstone Mode$(/l) and $(l:mtlasers:card_redstone)Redstone Card$(/l) sections."
+    }
+  ]
+}

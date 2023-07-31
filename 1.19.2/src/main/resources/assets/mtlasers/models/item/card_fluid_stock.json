@@ -1,0 +1,6 @@
+{
+  "parent": "mtlasers:item/card_fluid",
+  "textures": {
+    "layer1": "mtlasers:item/cardlayers/stock"
+  }
+}

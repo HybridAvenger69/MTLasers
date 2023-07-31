@@ -1,0 +1,47 @@
+{
+  "name": "Básico",
+  "sortnum": 0,
+  "category": "mtlasers:mechanics",
+  "icon": "mtlasers:logic_chip",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Clicar com o botão direito em um Cartão na sua mão abrirá a sua interface. Você também pode clicar com o botão direito dentro da interface do $(l:mtlasers:laser_node)Nó$(/l).$(br2)Modo de Inserção:$(br)1. $(l:mtlasers:modes)Modo$(/l)$(br)2. $(l:mtlasers:sneaky)Furtivo$(/l)$(br)3. Filtro$(br)4. $(l:mtlasers:overclocker_card)Overclocker de Cartão$(/l)$(br)5. $(l:mtlasers:priority)Prioridade$(/l)$(br)6. $(l:mtlasers:channel)Canal$(/l)$(br)7. $(l:mtlasers:redstonemode)Modo de Redstone$(/l)$(br)8. $(l:mtlasers:redstonechannel)Canal da Redstone$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Interface de Inserção",
+      "images": [
+        "mtlasers:textures/book/entries/basics1.png"
+      ],
+      "border": true,
+      "text": "Um Cartão de Item definido para o Modo de Inserção"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Modo de Extração:$(br2)1. $(l:mtlasers:modes)Modo$(/l)$(br)2. $(l:mtlasers:sneaky)Furtivo$(/l)$(br)3. $(l:mtlasers:roundrobin)Rodízio$(/l)$(br)4. $(l:mtlasers:exact)Exato$(/l)$(br)5. Filtro$(br)6. $(l:mtlasers:overclocker_card)Overclocker de Cartão$(/l)$(br)7. $(l:mtlasers:extractamount)Quantidade de Extração$(/l)$(br)8. $(l:mtlasers:tickspeed)Velocidade em Ticks$(/l)$(br)9. $(l:mtlasers:channel)Canal$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Interface de Extração",
+      "images": [
+        "mtlasers:textures/book/entries/basics-extract.png"
+      ],
+      "border": true,
+      "text": "Um Cartão de Item definido para o Modo de Extração"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Modo de Estoque:$(br2)1. $(l:mtlasers:modes)Modo$(/l)$(br)2. $(l:mtlasers:sneaky)Furtivo$(/l)$(br)3. $(l:mtlasers:regulate)Regulado$(/l)$(br)4. $(l:mtlasers:exact)Exato$(/l)$(br)5. Filtro$(br)6. $(l:mtlasers:overclocker_card)Overclocker de Cartão$(/l)$(br)7. $(l:mtlasers:extractamount)Quantidade de Extração$(/l)$(br)8. $(l:mtlasers:tickspeed)Velocidade em Ticks$(/l)$(br)9. $(l:mtlasers:channel)Canal$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Interface de Estoque",
+      "images": [
+        "mtlasers:textures/book/entries/basics-stock.png"
+      ],
+      "border": true,
+      "text": "Um Cartão de Item definido para o Modo de Estoque"
+    }
+  ]
+}

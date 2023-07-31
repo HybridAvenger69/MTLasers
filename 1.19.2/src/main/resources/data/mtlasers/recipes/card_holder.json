@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mtlasers",
+  "key": {
+    "b": {
+      "item": "mtlasers:logic_chip"
+    },
+    "c": {
+      "tag": "forge:chests"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "i i",
+    "cbc",
+    "i i"
+  ],
+  "result": {
+    "item": "mtlasers:card_holder"
+  }
+}

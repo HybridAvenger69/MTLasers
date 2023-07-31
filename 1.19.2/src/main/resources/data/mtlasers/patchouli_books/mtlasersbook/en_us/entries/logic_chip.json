@@ -1,0 +1,22 @@
+{
+  "name": "Logic Chips",
+  "icon": "mtlasers:logic_chip",
+  "sortnum": 0,
+  "category": "mtlasers:items",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Logic Chips are the primary crafting ingredient in mtlasers. $(br2)They are the only item crafted with 'vanilla' materials, and all subsequent items use a chip in one way or another."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Raw Logic Chip",
+      "recipe": "mtlasers:logic_chip_raw"
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "Logic Chip",
+      "recipe": "mtlasers:logic_chip"
+    }
+  ]
+}
